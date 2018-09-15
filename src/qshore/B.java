@@ -15,8 +15,10 @@ public class B extends A{
 		testa();
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		B bb = new B();
-		bb.test3();
+		bb.testa();
 	}
 }
